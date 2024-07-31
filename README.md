@@ -2,8 +2,7 @@
 
 ## 🔎Introduction
 Welcome to my Power BI Projects Repository!  
-This repository showcases a diverse set of Power BI projects that I have developed to derive actionable insights from data through powerful visualizations and analyses.  
-Each project demonstrates different functionalities and highlights my proficiency in using Power BI for data management, analysis, and visualization.
+This repository showcases a diverse set of Power BI projects that I have developed to derive actionable insights from data through powerful visualizations and analyses. Each project demonstrates different functionalities and highlights my proficiency in using Power BI for data management, analysis, and visualization.
 
 ## 💡Project List
 Explore the projects included in this repository:
