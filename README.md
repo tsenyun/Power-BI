@@ -8,7 +8,7 @@ Each project demonstrates different functionalities and highlights my proficienc
 ## 💡Project List
 Explore the projects included in this repository:
 
-### 🍽️Apocolypse Food Prep
+### 🍽️[Apocolypse Food Prep](https://github.com/tsenyun/PowerBI/blob/main/Apocolypse%20Food%20Prep.pdf)
 - **Description**: This project involves managing and visualizing data for an Apocalypse Food Preparation scenario. The goal was to integrate multiple datasets and create an insightful dashboard.
 - **Features**:
   - Utilized **Power Query** to clean and merge data from various sources.
@@ -16,7 +16,7 @@ Explore the projects included in this repository:
   - Provided actionable insights for food stockpiling and preparation.
 - **Usage**: This dashboard helps in planning and managing food resources efficiently, ensuring preparedness for any apocalypse scenario.
 
-### 📝Data Professional Survey Dashboard
+### 📝[Data Professional Survey Dashboard](https://github.com/tsenyun/PowerBI/blob/main/Data%20Professional%20Survey%20Dashboard.pdf)
 - **Description**: An analysis of 630 survey responses from data professionals to extract valuable insights about the industry trends and professional preferences.
 - **Features**:
   - Cleaned and organized survey data using **Power Query**.
