@@ -23,6 +23,7 @@ Explore the projects included in this repository:
   - Developed a comprehensive dashboard to present key insights by using **Power BI**.
   - Provided actionable insights for food stockpiling and preparation.
 - **Usage**: This dashboard helps in planning and managing food resources efficiently, ensuring preparedness for any apocalypse scenario.
+- **Data Source**[]
 
 ## 🛠️Skills Demonstrated
 Throughout these projects, I have utilized a range of skills to effectively manage, analyze, and visualize data, showcasing my proficiency in Power BI:
