@@ -14,7 +14,7 @@ Explore the projects included in this repository:
   - Created an interactive dashboard to visualize survey results using **Power BI**.
   - Highlighted key trends and insights relevant to data professionals.
 - **Usage**: This project provides a detailed view of the data professional landscape, helping organizations and individuals understand industry standards and preferences.
-- - [**Data Source**](https://github.com/tsenyun/PowerBI/blob/main/Data%20Professional%20Survey%20Dataset.xlsx)
+- [**Data Source**](https://github.com/tsenyun/PowerBI/blob/main/Data%20Professional%20Survey%20Dataset.xlsx)
 
   
 ### 🍽️[Apocolypse Food Prep](https://github.com/tsenyun/PowerBI/blob/main/Apocolypse%20Food%20Prep.pdf)
