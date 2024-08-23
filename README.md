@@ -14,6 +14,7 @@ Explore the projects included in this repository:
   - Created an interactive dashboard to visualize survey results using **Power BI**.
   - Highlighted key trends and insights relevant to data professionals.
 - **Usage**: This project provides a detailed view of the data professional landscape, helping organizations and individuals understand industry standards and preferences.
+- - [**Data Source**](https://github.com/tsenyun/PowerBI/blob/main/Data%20Professional%20Survey%20Dataset.xlsx)
 
   
 ### 🍽️[Apocolypse Food Prep](https://github.com/tsenyun/PowerBI/blob/main/Apocolypse%20Food%20Prep.pdf)
@@ -23,7 +24,7 @@ Explore the projects included in this repository:
   - Developed a comprehensive dashboard to present key insights by using **Power BI**.
   - Provided actionable insights for food stockpiling and preparation.
 - **Usage**: This dashboard helps in planning and managing food resources efficiently, ensuring preparedness for any apocalypse scenario.
-- [**Data Source**](https://github.com/tsenyun/PowerBI/blob/main/Data%20Professional%20Survey%20Dataset.xlsx)
+
 
 ## 🛠️Skills Demonstrated
 Throughout these projects, I have utilized a range of skills to effectively manage, analyze, and visualize data, showcasing my proficiency in Power BI:
