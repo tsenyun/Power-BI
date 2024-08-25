@@ -7,7 +7,7 @@ This repository showcases a diverse set of Power BI projects that I have develop
 ## 💡Project List
 Explore the projects included in this repository:
 
-### 📝Data Professional Survey Dashboard [[pdf]](https://github.com/tsenyun/PowerBI/blob/main/Data%20Professional%20Survey%20Dashboard.pdf) [[Screen Record]](https://github.com/tsenyun/PowerBI/blob/main/Data%20Professional%20Survey%20Dashboard%20-%20ScreenRecord%20-.mp4)
+### 📝Data Professional Survey Dashboard [[pic]](https://github.com/tsenyun/PowerBI/blob/main/Data%20Professional%20Survey%20Breakdown%20-%20pic.PNG) [[Screen Record]](https://drive.google.com/file/d/1g9c7dZYAB0HoN9TFlY1GdZrdB3667fbb/view?usp=sharing)
 - **Description**: An analysis of 630 survey responses from data professionals to extract valuable insights about the industry trends and professional preferences.
 - **Features**:
   - Cleaned and organized survey data using **Power Query**.
